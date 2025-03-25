@@ -22,12 +22,4 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi! 😊
 
-## 🌟 Projects
-
-Here are a few projects I've worked on:
-
-- **[Project 1](https://github.com/vermayatharth/project1):** A brief description of what this project does.
-- **[Project 2](https://github.com/vermayatharth/project2):** A brief description of what this project does.
-- **[Project 3](https://github.com/vermayatharth/project3):** A brief description of what this project does.
-
 Thanks for stopping by! Have a great day! 😄
